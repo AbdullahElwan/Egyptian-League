@@ -1,4 +1,19 @@
-# ⚽ Egyptian League Management System (Data Structures Project)
+# ⚽ Egyptian League Management System
+
+<p align="center">
+  <b>An Advanced Sports Management Application built with C++ using Dynamic Linked Lists and OOP</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-17-blue?style=for-the-badge&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/Data%20Structures-Linked%20Lists-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-Design-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+</p>
+
+---
+
+## ⚽ Egyptian League Management System (Data Structures Project)
 
 A high-performance **C++ console-based management system** designed to simulate core operations of the Egyptian Football League using **custom-built data structures**.
 
@@ -68,9 +83,6 @@ The application provides a structured menu system allowing users to:
 * Insert new teams and players
 * Perform search and update operations
 * Execute sorting and analytics features
-
-👉 Core interaction is handled through a menu-driven interface in
-
 
 ---
 
